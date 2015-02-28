@@ -24,6 +24,10 @@ input {
 }
 
 canvas {
-  border-width: 1;
+  border-width: 10;
   border: solid;
+}
+
+#size {
+  width: 35px;
 }
